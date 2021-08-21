@@ -1,0 +1,7 @@
+current path: ./saved_models/model_mnist_Aug.20_09.29.45
+Loading data
+build_classes_dict done
+train loaders done
+##### Arguements #####
+Namespace(aggregation='NoDetect', attack_mode=5, attack_ratio=0.25, backdoor=True, batch_size=64, beta=0.25, data='mnist', data_process='mnist_100', del_num=10, device='cuda:0', distributed=False, local_epoch=10, params='mnist_params.yaml', partion=5, select_ratio=0.04)
+##########
